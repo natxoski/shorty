@@ -1,0 +1,2 @@
+/search https://google.com.au
+/gh https://github.com

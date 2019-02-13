@@ -1,2 +1,0 @@
-# shorty
-Created with CodeSandbox
